@@ -39,7 +39,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<div class="wrap">
 		<div class="header-top">
 			<div class="logo">
-				<a href="index.html"><img src="images/logo.png" alt=""/></a>
+				<a href="index.html"><img src="images/logo.jpg" alt=""/></a>
 			</div>
 			<div class="telephone">
 				<span><img src="images/watch.png" "style=margin-right=10px" alt=""/>Timings</span><span class="number">(800) 234-5678</span>

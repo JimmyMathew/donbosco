@@ -10,13 +10,13 @@
 		  					 <h2><a href="administration.php">Administration</a><span></h2>
 		  				</div>
 						<div class="testimonials">
-		  					 <h2><a href="#">History</a><span></h2>
+		  					 <h2><a href="history.php">History</a><span></h2>
 		  				</div>
 						<div class="testimonials">
-		  					 <h2><a href="#">Don Bosco</a><span></h2>
+		  					 <h2><a href="donbosco.php">Don Bosco</a><span></h2>
 		  				</div>
 						<div class="testimonials">
-		  					 <h2><a href="#">Educational Philosophy</a><span></h2>
+		  					 <h2><a href="eduphilosophy.php">Educational Philosophy</a><span></h2>
 		  				</div>
 		  				
 				  </div>
