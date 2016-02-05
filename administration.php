@@ -8,8 +8,8 @@
 								  <img src="images/secratary.jpg" alt="">
 					  </div>
 									<div class="grid span_2_of_1">
-										<h4>Message from the Secreatary</h4>
-											<p>Salesians of St.John Bosco prepare the youth to enter into the fields of Publishing, Cinema, radio, Television and now IT. St.John Bosco was ahead of his time .He founded the Salesian congregation to educate the poor youth and today the Salesians of St.John Bosco are continuing the wonderful work started for the poor and abandoned youth. He said, “It is enough that you are young to love you, for you I live; for you I work; for you I am ready to lay down my life”.
+										<h4>Message from the Secretary</h4>
+											<p>Salesians of St.John Bosco prepare the youth to enter into the fields of Publishing, Cinema, Radio, Television and now IT. St.John Bosco was ahead of his time .He founded the Salesian congregation to educate the poor youth and today the Salesians of St.John Bosco are continuing the wonderful work started for the poor and abandoned youth. He said, “It is enough that you are young to love you, for you I live; for you I work; for you I am ready to lay down my life”.
 
 Don Bosco Polytechnic College is a Catholic institution which belongs to minority. We follow the principles of Jesus in the Salesian way. Our system of education is based on Reason, Religion and Loving Kindness.
 
@@ -49,22 +49,22 @@ Outstation students are accommodated in the hostels. Excellent infrastructure by
 	
 					    	<h3>Governing Bodies</h3><div class="image group">
 							 
-									<div class="grid span_2_of_1">
+									<div class="grid span_2_of_1"> 
 										
 										
-											<p>1. Rev.Dr. Fr. Jayapalan Rapheal,, Sdb
-Provincial / President / Chairman
+											<p>1. Rev.Dr. Fr. Jayapalan Rapheal, Sdb <br>
+	Provincial / President / Chairman <br> <br>
 
-2.	Fr. Manyil Antony,, Sdb
-Rector, Secretary, Director : DBSSS & Parish Priest
+2.	Fr. Manyil Antony, Sdb <br>
+	Rector, Secretary, Director : DBSSS & Parish Priest <br> <br>
 
-3.	Fr. Amaladoss Ashok, Sdb
-Campus Director & Principal DB Polytechnic
+3.	Fr. Amaladoss Ashok, Sdb <br>
+	Campus Director & Principal DB Polytechnic <br> <br>
 
-4.	Bro. Mariadoss Maria Arockiaraj,, Sdb
-Administrator & Principal ITI</p></div><div class="clear"></div></div>
+4.	Bro. Mariadoss Maria Arockiaraj, Sdb <br>
+	Administrator & Principal ITI <br> </p></div><div class="clear"></div></div>
 <br/>
-<h3>Organisational Chart</h3><br/>
+<h3>Organizational Chart</h3><br/>
 
 							 
 							 

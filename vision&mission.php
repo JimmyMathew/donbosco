@@ -6,7 +6,7 @@
 				           <p>To innovate and inspire the youth of India.</p> <br/><br/>
 						   <h2>Mission</h2>
 		    			  
-				           <p>We are committed in creating a college of excellence, where we inspire the young to get a technical education at a affordable cost and to provide placement opportunity, which will enhance the innovative thinking within the pupil inorder to make the young India, A Skilled India</p>
+				           <p>We are committed in creating a college of excellence, where we inspire the youth to get technical education at an affordable cost and to provide placement opportunity, which will enhance the innovative thinking within the pupil inorder to make India a skilled country. </p>
 					       <!-- <div class="image group">
 							   <div class="grid images_3_of_1">
 								  <img src="images/pic13.jpg" alt="">
