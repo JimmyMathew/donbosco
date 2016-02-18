@@ -1,43 +1,80 @@
-<div class="footer">
-			<div class="wrap">
-			<div class="footer-grids">
-				<div class="footer-grid">
-					<h3>EXTRAS</h3>
-					<p>Ut rutrum neque a mollis laoreet diam enim feuiat dui nec ulacoper quam felis id diam. Nunc ut tortor ligula eu petiu risus. Pelleesque conquat dignissim lacus quis altrcies.</p>
-				</div>
-				<div class="footer-grid">
-					<h3>RECENT POSTS</h3>
-					<ul>
-						<li><a href="#">Vestibulum felis</a></li>
-						<li><a href="#">Mauris at tellus</a></li>
-						<li><a href="#">Donec ut lectus</a></li>
-						<li><a href="#">vitae interdum</a></li>
-					</ul>
-				</div>
-				<div class="footer-grid">
-					<h3>USEFUL INFO</h3>
-					<ul>
-						<li><a href="#">Hendrerit quam</a></li>
-						<li><a href="#">Amet consectetur </a></li>
-						<li><a href="#">Iquam hendrerit</a></li>
-						<li><a href="#">Donec ut lectus </a></li>
-					</ul>
-				</div>
-				<div class="footer-grid footer-lastgrid">
-					<h3>CONTACT US</h3>
-					<p>Pelleesque conquat dignissim lacus quis altrcies.</p>
-					<div class="footer-grid-address">
-						<p>Tel.800-255-9999</p>
-						<p>Fax: 1234 568</p>
-						<p>Email:<a href="mailto:info@example.com">mail@example.com</a></p>
-					</div>
-				</div>
-				<div class="clear"> </div>
-			</div>
-			<div class="copy-right">
-			   <p>© 2016 Don Bosco. All Rights Reserved | Developed by <a href="http://w3layouts.com/">Jimmy Mathew</a> </p>
-		    </div>
-		</div>
-	</div>
+ <div class="footer">
+    	<div class="container">
+    		<div class="col-md-3 grid_4">
+    		   <h3>About Us</h3>	
+    		   <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.."</p>
+    		      <ul class="social-nav icons_2 clearfix">
+                    <li><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="#" class="facebook"> <i class="fa fa-facebook"></i></a></li>
+                    <li><a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a></li>
+                 </ul>
+    		</div>
+    		<div class="col-md-3 grid_4">
+    		   <h3>Quick Links</h3>
+    			<ul class="footer_list">
+    				<li><a href="#">-  PRIOR LEARNING ASSESSMENT </a></li>
+    				<li><a href="#">-  INTERNATIONAL STUDENTS</a></li>
+    				<li><a href="#">-  CAREER OPPORTUNITIES</a></li>
+    				<li><a href="#">-   NEW STUDENT ORIENTATION</a></li>
+    				<li><a href="#">-   NEW CLASSROOM TECHNOLOGY</a></li>
+    			</ul>
+    		</div>
+    		<div class="col-md-3 grid_4">
+    		   <h3>Contact Us</h3>
+    			<address>
+                    <strong>Contrary to popular belief</strong>
+                    <br>
+                    <span>4877 It is a long established</span>
+                    <br><br>
+                    <span>Contrary to popular , 15089</span>
+                    <br>
+                    <abbr>Telephone : </abbr> +1 (734) 123-4567
+                    <br>
+                    <abbr>Email : </abbr> <a href="mailto@example.com">info(at)Learn.com</a>
+               </address>
+    		</div>
+    		<div class="col-md-3 grid_4">
+    		   <h3>Working Hours</h3>
+    			 <table class="table_working_hours">
+		        	<tbody>
+		        		<tr class="opened_1">
+							<td class="day_label">monday</td>
+							<td class="day_value">9:30 am - 6.00 pm</td>
+						</tr>
+					    <tr class="opened">
+							<td class="day_label">tuesday</td>
+							<td class="day_value">9:30 am - 6.00 pm</td>
+						</tr>
+					    <tr class="opened">
+							<td class="day_label">wednesday</td>
+							<td class="day_value">9:30 am - 6.00 pm</td>
+						</tr>
+					    <tr class="opened">
+							<td class="day_label">thursday</td>
+							<td class="day_value">9:30 am - 6.00 pm</td>
+						</tr>
+					    <tr class="opened">
+							<td class="day_label">friday</td>
+							<td class="day_value">9:30 am - 3.00 pm</td>
+						</tr>
+					    <tr class="closed">
+							<td class="day_label">saturday</td>
+							<td class="day_value closed"><span>Closed</span></td>
+						</tr>
+					    <tr class="closed">
+							<td class="day_label">sunday</td>
+							<td class="day_value closed"><span>Closed</span></td>
+						</tr>
+				    </tbody>
+				</table>
+            </div>
+    		<div class="clearfix"> </div>
+    		<div class="copy">
+		       <p>Copyright © 2015 Learn . All Rights Reserved  | Design by <a href="http://w3layouts.com/" target="_blank">W3layouts</a> </p>
+	        </div>
+    	</div>
+    </div>
+<script src="js/jquery.countdown.js"></script>
+<script src="js/script.js"></script>
 </body>
-</html>
+</html>	

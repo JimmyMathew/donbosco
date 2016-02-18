@@ -1,105 +1,262 @@
 <?php include 'head.php' ?>
-	<div class="wrap">
-	  <div class="main">
-		<div class="section group">
-				<div class="col_1_of_4 span_1_of_4">
-					<img src="images/pic.jpg" alt=""/>
-						<div class="banner-box3">
-							<span class="text20">Useful Info</span>
-							<a href="#" class="link2"></a>
-						</div>
-						<p class="desc">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna.</p>
-						<div class="more">
-						  <a href="#" class="button">Read More</a>
-						</div>
-				</div>
-				<div class="col_1_of_4 span_1_of_4">
-					<img src="images/pic1.jpg" alt=""/>
-						<div class="banner-box3">
-							<span class="text20">Our Community</span>
-							<a href="#" class="link2"></a>
-						</div>
-						<p class="desc">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna.</p>
-						<div class="more">
-						  <a href="#" class="button">Read More</a>
-						</div>
-				</div>
-				<div class="col_1_of_4 span_1_of_4">
-					<img src="images/pic2.jpg" alt=""/>
-						<div class="banner-box3">
-							<span class="text20">Private Tuition</span>
-							<a href="#" class="link2"></a>
-						</div>
-						<p class="desc">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna.</p>
-						<div class="more">
-						  <a href="#" class="button">Read More</a>
-						</div>
-				</div>
-				<div class="col_1_of_4 span_1_of_4">
-					<img src="images/pic3.jpg" alt=""/>
-						<div class="banner-box3">
-							<span class="text20">Basic Program</span>
-							<a href="#" class="link2"></a>
-						</div>
-						<p class="desc">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna.</p>
-						<div class="more">
-						  <a href="#" class="button">Read More</a>
-						</div>
-				</div>
-				<div class="clear"></div>
+	
+     <div class="grid_1">
+     	<div class="container">
+     		
+            <div>
+              <h2>Programs</h2>
+		      <div class="but_list">
+		       <div class="bs-example bs-example-tabs" role="tabpanel" data-example-id="togglable-tabs">
+				<ul id="myTab" class="nav nav-tabs nav-tabs1" role="tablist">
+				  <li role="presentation" class="active"><a href="#home" id="home-tab" role="tab" data-toggle="tab" aria-controls="home" aria-expanded="true">Day 1&nbsp;&nbsp;&nbsp;31-08-2015</a></li>
+				  <li role="presentation"><a href="#profile" role="tab" id="profile-tab" data-toggle="tab" aria-controls="profile">Day 2&nbsp;&nbsp;&nbsp;01-09-2015</a></li>
+				  <li role="presentation"><a href="#profile1" role="tab" id="profile-tab1" data-toggle="tab" aria-controls="profile1">Day 3&nbsp;&nbsp;&nbsp;05-09-2015</a></li>
+				</ul>
+			<div id="myTabContent" class="tab-content">
+			  <div role="tabpanel" class="tab-pane fade in active" id="home" aria-labelledby="home-tab">
+			    <div class="events_box">
+			    	
+			    	<div class="event_right">
+			    		  <h3><a href="#">Welcoming and introduction</a></h3>
+						  <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. <a href="#">Read More</a></p>
+						  <img src="images/t9.jpg" class="img-responsive" alt=""/>	
+		    	    </div>
+		    	    <div class="clearfix"></div>
+			   </div>
+			   <div class="events_box">
+			    
+			    	<div class="event_right">
+			    		  <h3><a href="#">Welcoming and introduction</a></h3>
+						  <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form <a href="#">Read More</a></p>
+						  <img src="images/t5.jpg" class="img-responsive" alt=""/>	
+		    	    </div>
+		    	    <div class="clearfix"></div>
+			   </div>
+			  </div>
+			  <div role="tabpanel" class="tab-pane fade" id="profile" aria-labelledby="profile-tab">
+			    <div class="events_box">
+			    	<div class="event_left"><div class="event_left-item">
+			    		<div class="icon_2"><i class="fa fa-clock-o"></i>09:00 - 10:30</div>
+			    		<div class="icon_2"><i class="fa fa-location-arrow"></i>Room A</div>
+			    		<div class="icon_2">
+			    		  <div class="speaker">
+			    			  <i class="fa fa-user"></i>
+			    			  <div class="speaker_item">
+			    			     <a href="#">Lorem Ipsum</a>
+			    			  </div>
+			    			  <div class="clearfix"></div></div>
+			    		  </div>
+			    		</div>
+			    	</div>
+			    	<div class="event_right">
+			    		  <h3><a href="#">Welcoming and introduction</a></h3>
+						  <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form <a href="#">Read More</a></p>
+						  <img src="images/t8.jpg" class="img-responsive" alt=""/>	
+		    	    </div>
+		    	    <div class="clearfix"></div>
+			   </div>
+			   <div class="events_box">
+			    	<div class="event_left"><div class="event_left-item">
+			    		<div class="icon_2"><i class="fa fa-clock-o"></i>09:00 - 10:30</div>
+			    		<div class="icon_2"><i class="fa fa-location-arrow"></i>Room A</div>
+			    		<div class="icon_2">
+			    		  <div class="speaker">
+			    			  <i class="fa fa-user"></i>
+			    			  <div class="speaker_item">
+			    			     <a href="#">Lorem Ipsum</a>
+			    			  </div>
+			    			  <div class="clearfix"></div></div>
+			    		  </div>
+			    		</div>
+			    	</div>
+			    	<div class="event_right">
+			    		  <h3><a href="#">Welcoming and introduction</a></h3>
+						  <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature <a href="#">Read More</a></p>
+						  <img src="images/t2.jpg" class="img-responsive" alt=""/>	
+		    	    </div>
+		    	    <div class="clearfix"></div>
+			   </div>
 			</div>
-			<div class="bottom-grids">
-				  <div class="bottom-grid1">
-							<h3>POPULAR INFO</h3>
-							<span>consectetur adipisicing elit, sed do eiusmod tempor</span>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-							<ul>
-								<li><a href="#"><img src="images/marker1.png"> consectetur adipisicing elit</a></li>
-								<li><a href="#"><img src="images/marker1.png"> sed do eiusmod tempor incididunt</a></li>
-								<li><a href="#"><img src="images/marker1.png"> labore et dolore magna aliqua.</a></li>
-								<li><a href="#"><img src="images/marker1.png"> sed do eiusmod tempor</a></li>
-								<li><a href="#"><img src="images/marker1.png"> abore et dolore magna</a></li>
-								<li><a href="#"><img src="images/marker1.png"> incididunt ut labore et dolore</a></li>
-								<li><a href="#"><img src="images/marker1.png"> dolore magna aliqua</a></li>
-								<li><a href="#"><img src="images/marker1.png"> adipisicing elit, sed do eiusmod</a></li>
-								<li><a href="#"><img src="images/marker1.png"> adipisicing elit, sed do eiusmod</a></li>
-								<div class="clear"> </div>
-							 </ul><br>
-									<a href="#" class="button">Read More</a>
-					</div>
-								<div class="bottom-grid2 bottom-mid">
-									<h3>Our Staff</h3>
-									<span>consectetur adipisicing elit, sed do eiusmod tempor</span>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. consectetur adipisicing elit, sed do eiusmod adipisicing elit, sed do eiusmod tempor incididunt adipisicing elit, sed do</p>
-									<div class="gallery">
-										<ul>
-												<li><a href="images/t-pic4.jpg"><img src="images/pic4.jpg" alt=""></a></li>
-												<li><a href="images/t-pic5.jpg"><img src="images/pic5.jpg" alt=""></a></li>
-												<li><a href="images/t-pic6.jpg"><img src="images/pic6.jpg" alt=""></a></li>
-												<li><a href="images/t-pic4.jpg"><img src="images/pic7.jpg" alt=""></a></li>
-												<li><a href="images/t-pic5.jpg"><img src="images/pic8.jpg" alt=""></a></li>
-												<li><a href="images/t-pic6.jpg"><img src="images/pic9.jpg" alt=""></a></li>
-												<li><a href="images/t-pic4.jpg"><img src="images/pic10.jpg" alt=""></a></li>
-												<li><a href="images/t-pic5.jpg"><img src="images/pic11.jpg" alt=""></a></li>
-												<li><a href="images/t-pic6.jpg"><img src="images/pic12.jpg" alt=""></a></li>
-											<div class="clear"> </div>
-										</ul><br>
-								    </div>									
-										<a href="#" class="button">Read More</a>
-								</div>
-							    <div class="bottom-grid3 bottom-last">
-									<h3>Latest INFO</h3>
-									<span>consectetur adipisicing elit, sed do eiusmod tempor</span>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempo.</p>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt .</p>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt .</p>
-									<br>
-									<a href="#" class="button">Read More</a>
-								</div>
-								<div class="clear"> </div>
-			</div>
-	     </div>
-	</div>
-	<?php include 'foot.php' ?>
+			<div role="tabpanel" class="tab-pane fade" id="profile1" aria-labelledby="profile-tab1">
+			    <div class="events_box">
+			    	<div class="event_left"><div class="event_left-item">
+			    		<div class="icon_2"><i class="fa fa-clock-o"></i>09:00 - 10:30</div>
+			    		<div class="icon_2"><i class="fa fa-location-arrow"></i>Room A</div>
+			    		<div class="icon_2">
+			    		  <div class="speaker">
+			    			  <i class="fa fa-user"></i>
+			    			  <div class="speaker_item">
+			    			     <a href="#">Lorem Ipsum</a>
+			    			  </div>
+			    			  <div class="clearfix"></div></div>
+			    		  </div>
+			    		</div>
+			    	</div>
+			    	<div class="event_right">
+			    		  <h3><a href="#">Welcoming and introduction</a></h3>
+						  <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings <a href="#">Read More</a></p>
+						  <img src="images/t7.jpg" class="img-responsive" alt=""/>	
+		    	    </div>
+		    	    <div class="clearfix"></div>
+			   </div>
+			   <div class="events_box">
+			    	<div class="event_left"><div class="event_left-item">
+			    		<div class="icon_2"><i class="fa fa-clock-o"></i>09:00 - 10:30</div>
+			    		<div class="icon_2"><i class="fa fa-location-arrow"></i>Room A</div>
+			    		<div class="icon_2">
+			    		  <div class="speaker">
+			    			  <i class="fa fa-user"></i>
+			    			  <div class="speaker_item">
+			    			     <a href="#">Lorem Ipsum</a>
+			    			  </div>
+			    			  <div class="clearfix"></div></div>
+			    		  </div>
+			    		</div>
+			    	</div>
+			    	<div class="event_right">
+			    		  <h3><a href="#">Welcoming and introduction</a></h3>
+						  <p>Vestibulum id ligula porta felis euismod semper. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla. Aenean lacinia bibendum nulla sed consectetur.... <a href="#">Read More</a></p>
+						  <img src="images/t4.jpg" class="img-responsive" alt=""/>	
+		    	    </div>
+		    	    <div class="clearfix"></div>
+			    </div>
+			   </div>
+		     </div>
+		    </div>
+		   </div>
+      </div>
+      <div class="clearfix"> </div>
+     </div>
+    </div>
+    <div class="bg">
+     	<div class="container">
+     		<div class="timer_wrap">
+				<div id="counter"> </div>		
+			</div> 
+			<div class="newsletter">
+			  <form>
+				<input type="text" name="ne" size="30" required="" placeholder="Please fill your email">
+				<input type="submit" value="Subscribe">
+			  </form>
+            </div>
+        </div>
+   </div>
+   <div class="bottom_content">  
+   	 <h3>Our Projects</h3>
+     <div class="grid_2">
+     	<div class="col-md-4 portfolio-left">
+            <div class="portfolio-img event-img">
+                <img src="images/t15.jpg" class="img-responsive" alt=""/>
+                <div class="over-image"></div>
+            </div>
+            <div class="portfolio-description">
+               <h4><a href="#">Lorem Ipsum</a></h4>
+               <p>Mauris diam massa, malesuada a sapien in, semper vehicula erat. Vivamus sagittis leo a ullamcorper ultricies. Suspendisse placerat mattis arcu nec por</p>
+                <span>
+                  <a href="students.html">School Studies</a>
+                  <a href="students.html">College Studies</a>
+                </span>
+                <a href="events.html">
+                    <span><i class="fa fa-chain chain_1"></i>VIEW PROJECT</span>
+                </a>
+            </div>
+            <div class="clearfix"> </div>
+        </div>
+        <div class="col-md-4 portfolio-left">
+            <div class="portfolio-img event-img">
+                <img src="images/t10.jpg" class="img-responsive" alt=""/>
+                 <div class="over-image"></div>
+            </div>
+            <div class="portfolio-description">
+               <h4><a href="#">Lorem Ipsum</a></h4>
+               <p>Mauris diam massa, malesuada a sapien in, semper vehicula erat. Vivamus sagittis leo a ullamcorper ultricies. Suspendisse placerat mattis arcu nec por</p>
+               <span>
+                  <a href="students.html">School Studies</a>
+                  <a href="students.html">College Studies</a>
+                </span>
+                <a href="events.html">
+                    <span><i class="fa fa-chain chain_1"></i>VIEW PROJECT</span>
+                </a>
+            </div>
+            <div class="clearfix"> </div>
+        </div>
+        <div class="col-md-4 portfolio-left">
+            <div class="portfolio-img event-img">
+                <img src="images/t12.jpg" class="img-responsive" alt=""/>
+                 <div class="over-image"></div>
+            </div>
+            <div class="portfolio-description">
+               <h4><a href="#">Lorem Ipsum</a></h4>
+               <p>Mauris diam massa, malesuada a sapien in, semper vehicula erat. Vivamus sagittis leo a ullamcorper ultricies. Suspendisse placerat mattis arcu nec por</p>
+               <span>
+                  <a href="students.html">School Studies</a>
+                  <a href="students.html">College Studies</a>
+                </span>
+                <a href="events.html">
+                    <span><i class="fa fa-chain chain_1"></i>VIEW PROJECT</span>
+                </a>
+            </div>
+            <div class="clearfix"> </div>
+        </div>
+        <div class="clearfix"> </div>
+     </div>
+     <div class="grid_3">
+     	<div class="col-md-4 portfolio-left">
+            <div class="portfolio-img event-img">
+                <img src="images/t11.jpg" class="img-responsive" alt=""/>
+                 <div class="over-image"></div>
+            </div>
+            <div class="portfolio-description">
+               <h4><a href="#">Lorem Ipsum</a></h4>
+               <p>Mauris diam massa, malesuada a sapien in, semper vehicula erat. Vivamus sagittis leo a ullamcorper ultricies. Suspendisse placerat mattis arcu nec por</p>
+                <span>
+                  <a href="students.html">School Studies</a>
+                  <a href="students.html">College Studies</a>
+                </span>
+                <a href="events.html">
+                    <span><i class="fa fa-chain chain_1"></i>VIEW PROJECT</span>
+                </a>
+            </div>
+            <div class="clearfix"> </div>
+        </div>
+        <div class="col-md-4 portfolio-left">
+            <div class="portfolio-img event-img">
+                <img src="images/t14.jpg" class="img-responsive" alt=""/>
+                 <div class="over-image"></div>
+            </div>
+            <div class="portfolio-description">
+               <h4><a href="#">Lorem Ipsum</a></h4>
+               <p>Mauris diam massa, malesuada a sapien in, semper vehicula erat. Vivamus sagittis leo a ullamcorper ultricies. Suspendisse placerat mattis arcu nec por</p>
+               <span>
+                  <a href="students.html">School Studies</a>
+                  <a href="students.html">College Studies</a>
+                </span>
+                <a href="events.html">
+                    <span><i class="fa fa-chain chain_1"></i>VIEW PROJECT</span>
+                </a>
+            </div>
+            <div class="clearfix"> </div>
+        </div>
+        <div class="col-md-4 portfolio-left">
+            <div class="portfolio-img event-img">
+                <img src="images/t13.jpg" class="img-responsive" alt=""/>
+                 <div class="over-image"></div>
+            </div>
+            <div class="portfolio-description">
+               <h4><a href="#">Lorem Ipsum</a></h4>
+               <p>Mauris diam massa, malesuada a sapien in, semper vehicula erat. Vivamus sagittis leo a ullamcorper ultricies. Suspendisse placerat mattis arcu nec por</p>
+               <span>
+                  <a href="students.html">School Studies</a>
+                  <a href="students.html">College Studies</a>
+                </span>
+                <a href="events.html">
+                    <span><i class="fa fa-chain chain_1"></i>VIEW PROJECT</span>
+                </a>
+            </div>
+            <div class="clearfix"> </div>
+        </div>
+        <div class="clearfix"> </div>
+     </div>
+    </div>
+    <?php include 'foot.php' ?>
+   
