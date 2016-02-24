@@ -25,14 +25,14 @@
            <div class="main_inner_content">
             <div class="right_inner_content">
                 <div class="title" id="rules"><h1>General Rules &amp; Regulations</h1></div>
-                  <div class="title"><h3>Class Schedule</h3></div>
-                    <p style="line-height:14px;">9.00 a.m. to 1.00 p.m.            -      Class</p>
-                    <p style="line-height:14px;">1.00 p.m. to 1.30 p.m.            -      Lunch Break</p>
-                    <p style="line-height:14px;">1.30 p.m. to 4.30 p.m.            -      Class</p>
-                    <div class="title"><h3>Office Hours</h3></div>
-                    <p style="line-height:14px;">8.45a.m. to 1.30 p.m</p>
-                    <p style="line-height:14px;">2.00 p.m. to 4.45 p.m. Sunday – Holiday</p>
-                    <div class="title"><h3>Arrival &amp; Assembly</h3></div>
+                  <h3>Class Schedule</h3>
+                   9.00 a.m. to 1.00 p.m.            -      Class<br/>
+                    1.00 p.m. to 1.30 p.m.            -      Lunch Break<br/>
+                    1.30 p.m. to 4.30 p.m.            -      Class<br/><br/>
+                    <h3>Office Hours</h3>
+                   8.45a.m. to 1.30 p.m<br/>
+                   2.00 p.m. to 4.45 p.m. Sunday – Holiday<br/><br/>
+                   <h3>Arrival &amp; Assembly</h3>
                     <div class="list_style">
                       <ul>
                           <li>Every day the college begins with an assembly at 9 0’ Clock, Unless otherwise it is intimated.</li>
@@ -45,8 +45,8 @@
                             <li>No one will be allowed to go by two wheelers or by any other conveyance to other places in the campus without the permission. Rash driving within the campus will be a punishable offence.</li>
                             
                         </ul>
-                        </div>
-                            <div class="title"><h3>Lectures and Lecture Hall</h3></div>
+                        </div><br/>
+                           <h3>Lectures and Lecture Hall</h3>
                             <div class="list_style2">
                               <ul>
                                   <li>Every working day has 7 lecture hours unless otherwise changes are intimated.</li>
@@ -62,8 +62,8 @@
                                     <li>Students require permission of the lecturers to enter or to leave the lecture hall during the lecture. In case of sickness and unexpected urgency you may leave the hall with the permission of the lecturer. However, grant of permission or denial of the same is left to the discretion of the lecturer</li>
                                     <li>Students should provide themselves with text books, note books and other stationery materials as prescribed by the lecturers. Otherwise he/she will be asked to leave the lecture hall immediately.</li>
                                 </ul>
-                            </div>
-                            <div class="title"><h3>Uniforms and other Prescribed Wears</h3></div>
+                            </div><br/>
+                           <h3>Uniforms and other Prescribed Wears</h3>
                             <div class="list_style">
                               <ul>
                                   <li>Students should come to college only in the prescribed uniform that management prescribes.</li>

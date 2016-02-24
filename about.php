@@ -24,7 +24,7 @@
 		      <div class="but_list">
 		       <div class="bs-example bs-example-tabs" role="tabpanel" data-example-id="togglable-tabs">
 				<ul id="myTab" class="nav nav-tabs nav-tabs1" role="tablist">
-				  <li role="presentation" class="active"><a href="index.php">Home</a></li>
+				  
           <li role="presentation"><a href="#home" id="home-tab" role="tab" data-toggle="tab" aria-controls="home" aria-expanded="true">Vison & Mission</a></li>
 				  <li role="presentation"><a href="#profile" role="tab" id="profile-tab" data-toggle="tab" aria-controls="profile">Administration</a></li>
 				  <li role="presentation"><a href="#profile1" role="tab" id="profile-tab1" data-toggle="tab" aria-controls="profile1">History</a></li>

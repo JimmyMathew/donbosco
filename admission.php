@@ -1,4 +1,4 @@
-  <?php include 'headinside.php'?>
+  <?php include 'headinside.php' ?>
 
   <div class="courses_banner">
     <div class="container">
@@ -23,36 +23,17 @@
           <div class="but_list">
            <div class="bs-example bs-example-tabs" role="tabpanel" data-example-id="togglable-tabs">
         <ul id="myTab" class="nav nav-tabs nav-tabs1" role="tablist">
-          <li role="presentation" class=""><a href="index.php">Home</a></li>
-          <li role="presentation" class=""><a href="#home" id="home-tab" role="tab" data-toggle="tab" aria-controls="home" aria-expanded="true">Admission procedure</a></li>
+         
+          
           <li role="presentation" class="active"><a href="#profile" role="tab" id="profile-tab" data-toggle="tab" aria-controls="profile">Eligibility</a></li>
+          <li role="presentation" class=""><a href="#home" id="home-tab" role="tab" data-toggle="tab" aria-controls="home" aria-expanded="true">Admission procedure</a></li>
           <li role="presentation" class=""><a href="#profile1" role="tab" id="profile-tab1" data-toggle="tab" aria-controls="profile1">Fees Structure</a></li>
           <li role="presentation" class=""><a href="#profile2" role="tab" id="profile-tab1" data-toggle="tab" aria-controls="profile1">Query/Feedback</a></li>
            
         </ul>
       <div id="myTabContent" class="tab-content">
-        <div role="tabpanel" class="tab-pane fade" id="home" aria-labelledby="home-tab">
-          <div class="events_box">
-                <div class="container">
-            <div class="event_right">
-                <h3>Admission Procedure</h3>
-              <h4>Buying of Application Forms:</h4><h4>
-
-<p>A student can buy the application forms from the college office after remitting the application fee in the college.</p>
-
-</h4><h4>Downloading of Application Forms:</h4>
-
-<p>Downloading of application form from the official college website (www.dbtechcampus.ac.in) is also possible. However, at the time of submission, the application fee has to be remitted in the college office.</p>
-             
-              </div>
-              <div class="clearfix"></div>
-         
-        
-              </div>
-
-              <div class="clearfix"></div>
-         </div>
-        </div>
+       
+          
         <div role="tabpanel" class="tab-pane fade active in" id="profile" aria-labelledby="profile-tab">
           <div class="events_box">
 
@@ -87,6 +68,28 @@ or I.T.I (2 years NCVT).</p></td>
          </div>
       </div>
       </div>
+       <div role="tabpanel" class="tab-pane fade" id="home" aria-labelledby="home-tab">
+      <div class="events_box">
+                <div class="container">
+            <div class="event_right">
+                <h3>Admission Procedure</h3>
+              <h4>Buying of Application Forms:</h4><h4>
+
+<p>A student can buy the application forms from the college office after remitting the application fee in the college.</p>
+
+</h4><h4>Downloading of Application Forms:</h4>
+
+<p>Downloading of application form from the official college website (www.dbtechcampus.ac.in) is also possible. However, at the time of submission, the application fee has to be remitted in the college office.</p>
+             
+              </div>
+              <div class="clearfix"></div>
+         
+        
+              </div>
+
+              <div class="clearfix"></div>
+         </div>
+        </div>
         <div role="tabpanel" class="tab-pane fade" id="profile1" aria-labelledby="profile-tab">
           <div class="events_box">
              <div class="container">

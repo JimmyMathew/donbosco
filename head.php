@@ -115,15 +115,8 @@ $(document).ready(function(){
     <div class="collapse navbar-collapse" id="bs-megadropdown-tabs">
         <ul class="nav navbar-nav nav_1">
                <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">About us<span class="caret"></span></a>
-              <ul class="dropdown-menu" role="menu">
-                <li><a href="about.php">Vision & Mission</a></li>
-               <li><a href="about.php">Administration</a></li>
-                <li><a href="about.php">History</a></li>
-                <li><a href="about.php">Don Bosco</a></li>
-                   <li><a href="about.php">Educational Philosophy</a></li>
-
-              </ul>
+              <a href="about.php">About us</span></a>
+              
             </li>
              <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Study with us<span class="caret"></span></a>
@@ -139,17 +132,39 @@ $(document).ready(function(){
 			<li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Academic<span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
-                <li><a href="terms.html">Terms of use</a></li>
-                <li><a href="shortcodes.html">Shortcodes</a></li>
-                <li><a href="faq.html">Faq</a></li>
+                <li><a href="http://www.tndte.com/syllabus.html">Syllabus</a></li>
+                <li><a href="examination.php">Examination</a></li>
+                <li><a href="committees.php">Committees</a></li>
+                 
               </ul>
             </li>
+             	<li class="dropdown mega-dropdown active">
+			    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Clubs<span class="caret"></span></a>				
+				<div class="dropdown-menu mega-dropdown-menu">
+                    <div class="container-fluid">
+    				    <!-- Tab panes -->
+                        <div class="tab-content">
+                          <div class="tab-pane active" id="men">
+                            <ul class="nav-list list-inline">
+                                <li><a href="prayer.php"><img src="images/one.jpg" class="img-responsive" alt=""/>Prayer Club</a></li>
+                                <li><a href="green.php"><img src="images/two.jpg" class="img-responsive" alt=""/>Green House Club</a></li>
+                                <li><a href="arts.php"><img src="images/three.jpg" class="img-responsive" alt=""/>Fine Arts Council</a></li>
+                                <li><a href="sports.php"><img src="images/four.jpg" class="img-responsive" alt=""/></a>Sports Club</li>
+                            </ul>
+                          </div>
+                         
+                       </div>
+                    </div>
+                    <!-- Nav tabs -->
+                                  
+				</div>				
+			</li>
             	<li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Facilities<span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
-                <li><a href="terms.html">Terms of use</a></li>
-                <li><a href="shortcodes.html">Shortcodes</a></li>
-                <li><a href="faq.html">Faq</a></li>
+                <li><a href="library.php">Library</a></li>
+                <li><a href="comp.php">Computer Center</a></li>
+             
               </ul>
             </li>
 	<li class="dropdown">
@@ -160,39 +175,7 @@ $(document).ready(function(){
                 <li><a href="faq.html">Faq</a></li>
               </ul>
             </li>
-            	<li class="dropdown mega-dropdown active">
-			    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Gallery<span class="caret"></span></a>				
-				<div class="dropdown-menu mega-dropdown-menu">
-                    <div class="container-fluid">
-    				    <!-- Tab panes -->
-                        <div class="tab-content">
-                          <div class="tab-pane active" id="men">
-                            <ul class="nav-list list-inline">
-                                <li><a href="admission.html"><img src="images/t7.jpg" class="img-responsive" alt=""/></a></li>
-                                <li><a href="admission.html"><img src="images/t8.jpg" class="img-responsive" alt=""/></a></li>
-                                <li><a href="admission.html"><img src="images/t9.jpg" class="img-responsive" alt=""/></a></li>
-                                <li><a href="admission.html"><img src="images/t1.jpg" class="img-responsive" alt=""/></a></li>
-                            </ul>
-                          </div>
-                          <div class="tab-pane" id="women">
-                            <ul class="nav-list list-inline">
-                                <li><a href="admission.html"><img src="images/t1.jpg" class="img-responsive" alt=""/></a></li>
-                                <li><a href="admission.html"><img src="images/t2.jpg" class="img-responsive" alt=""/></a></li>
-                                <li><a href="admission.html"><img src="images/t3.jpg" class="img-responsive" alt=""/></a></li>
-                                <li><a href="admission.html"><img src="images/t4.jpg" class="img-responsive" alt=""/></a></li>
-                                <li><a href="admission.html"><img src="images/t5.jpg" class="img-responsive" alt=""/></a></li>
-                                <li><a href="admission.html"><img src="images/t6.jpg" class="img-responsive" alt=""/></a></li>
-                            </ul>
-                         </div>
-                       </div>
-                    </div>
-                    <!-- Nav tabs -->
-                    <ul class="nav nav-tabs" role="tablist">
-                       <li class="active"><a href="#men" role="tab" data-toggle="tab">School</a></li>
-                       <li><a href="#women" role="tab" data-toggle="tab">College</a></li>
-                   </ul>                    
-				</div>				
-			</li>
+           
 			   	<li class="dropdown mega-dropdown active">
 			    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Events<span class="caret"></span></a>				
 				<div class="dropdown-menu mega-dropdown-menu">
