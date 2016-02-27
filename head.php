@@ -236,17 +236,15 @@ $(document).ready(function(){
       <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1" style="height: 1px;">
           <ul class="nav navbar-nav">
             <li class="dropdown">
-                <a href="index.php"><i class="fa fa-globe"></i><span>Home</span></a>
+                <a href="index.php"><i class="fa fa-home"></i><span>Home</span></a>
             </li>
             <li class="dropdown">
-                <a href="login.html"><i class="fa fa-globe"></i><span>Contact us</span></a>
+                <a href="contact.php"><i class="fa fa-globe"></i><span>Contact us</span></a>
             </li>
              <li class="dropdown">
-                <a href="login.html"><i class="fa fa-globe"></i><span>Connect</span></a>
+                <a href="connect.php"><i class="fa fa-tag"></i><span>Connect</span></a>
             </li>
-             <li class="dropdown">
-                <a href="login.html"><i class="fa fa-globe"></i><span>Maps & Directions</span></a>
-            </li>
+             
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-list"></i><span>Courses</span></a>
                 <ul class="dropdown-menu">
@@ -262,6 +260,9 @@ $(document).ready(function(){
                   <li><a href="events.html">Event2</a></li>
                   <li><a href="events.html">Event3</a></li>
                  </ul>
+            </li>
+             <li class="dropdown">
+                <a href="maps.php"><i class="fa fa-globe"></i><span>Maps & Directions</span></a>
             </li>
            
             <li class="dropdown">
