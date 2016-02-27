@@ -239,10 +239,10 @@ $(document).ready(function(){
                 <a href="index.php"><i class="fa fa-home"></i><span>Home</span></a>
             </li>
             <li class="dropdown">
-                <a href="contact.php"><i class="fa fa-globe"></i><span>Contact us</span></a>
+                <a href="contact.php"><i class="fa fa-phone"></i><span>Contact us</span></a>
             </li>
              <li class="dropdown">
-                <a href="connect.php"><i class="fa fa-magnet"></i><span>Connect</span></a>
+                <a href="connect.php"><i class="fa fa-mobile-phone"></i><span>Connect</span></a>
             </li>
              
             
@@ -255,7 +255,7 @@ $(document).ready(function(){
                  </ul>
             </li>
              <li class="dropdown">
-                <a href="maps.php"><i class="fa fa-circle-o"></i><span>Maps & Directions</span></a>
+                <a href="maps.php"><i class="fa fa-globe"></i><span>Maps & Directions</span></a>
             </li>
            
             <li class="dropdown">
