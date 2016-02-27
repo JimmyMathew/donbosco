@@ -242,17 +242,10 @@ $(document).ready(function(){
                 <a href="contact.php"><i class="fa fa-globe"></i><span>Contact us</span></a>
             </li>
              <li class="dropdown">
-                <a href="connect.php"><i class="fa fa-tag"></i><span>Connect</span></a>
+                <a href="connect.php"><i class="fa fa-magnet"></i><span>Connect</span></a>
             </li>
              
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-list"></i><span>Courses</span></a>
-                <ul class="dropdown-menu">
-                  <li><a href="courses.html">Courses Categories</a></li>
-                  <li><a href="courses.html">Courses list</a></li>
-                  <li><a href="course_detail.html">Courses detail</a></li>
-                  </ul>
-            </li>
+            
             <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-calendar"></i><span>Events</span></a>
                  <ul class="dropdown-menu">
@@ -262,7 +255,7 @@ $(document).ready(function(){
                  </ul>
             </li>
              <li class="dropdown">
-                <a href="maps.php"><i class="fa fa-globe"></i><span>Maps & Directions</span></a>
+                <a href="maps.php"><i class="fa fa-circle-o"></i><span>Maps & Directions</span></a>
             </li>
            
             <li class="dropdown">

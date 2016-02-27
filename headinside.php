@@ -236,25 +236,16 @@ $(document).ready(function(){
       <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1" style="height: 1px;">
           <ul class="nav navbar-nav">
             <li class="dropdown">
-                <a href="index.php"><i class="fa fa-globe"></i><span>Home</span></a>
+                <a href="index.php"><i class="fa fa-home"></i><span>Home</span></a>
             </li>
             <li class="dropdown">
-                <a href="login.html"><i class="fa fa-globe"></i><span>Contact us</span></a>
+                <a href="contact.php"><i class="fa fa-globe"></i><span>Contact us</span></a>
             </li>
              <li class="dropdown">
-                <a href="login.html"><i class="fa fa-globe"></i><span>Connect</span></a>
+                <a href="connect.php"><i class="fa fa-magnet"></i><span>Connect</span></a>
             </li>
-             <li class="dropdown">
-                <a href="login.html"><i class="fa fa-globe"></i><span>Maps & Directions</span></a>
-            </li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-list"></i><span>Courses</span></a>
-                <ul class="dropdown-menu">
-                  <li><a href="courses.html">Courses Categories</a></li>
-                  <li><a href="courses.html">Courses list</a></li>
-                  <li><a href="course_detail.html">Courses detail</a></li>
-                  </ul>
-            </li>
+             
+            
             <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-calendar"></i><span>Events</span></a>
                  <ul class="dropdown-menu">
@@ -262,6 +253,9 @@ $(document).ready(function(){
                   <li><a href="events.html">Event2</a></li>
                   <li><a href="events.html">Event3</a></li>
                  </ul>
+            </li>
+             <li class="dropdown">
+                <a href="maps.php"><i class="fa fa-circle-o"></i><span>Maps & Directions</span></a>
             </li>
            
             <li class="dropdown">
@@ -312,7 +306,7 @@ $(document).ready(function(){
       <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Academic<span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
-                <li><a href="http://www.tndte.com/syllabus.html" target="_blank">Syllabus</a></li>
+                <li><a href="http://www.tndte.com/syllabus.html">Syllabus</a></li>
                 <li><a href="examination.php">Examination</a></li>
                 <li><a href="committees.php">Committees</a></li>
                  
@@ -355,43 +349,12 @@ $(document).ready(function(){
                 <li><a href="admission.php">Fees Structure</a></li>
                   <li><a href="admission.php">Query/Feedback</a></li>
               </ul>
-            </li>-->
-           
-          <li class="dropdown mega-dropdown active">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Events<span class="caret"></span></a>        
-        <div class="dropdown-menu mega-dropdown-menu">
-                    <div class="container-fluid">
-                <!-- Tab panes -->
-                        <div class="tab-content">
-                          <div class="tab-pane active" id="men">
-                            <ul class="nav-list list-inline">
-                                <li><a href="admission.html"><img src="images/t7.jpg" class="img-responsive" alt=""/></a></li>
-                                <li><a href="admission.html"><img src="images/t8.jpg" class="img-responsive" alt=""/></a></li>
-                                <li><a href="admission.html"><img src="images/t9.jpg" class="img-responsive" alt=""/></a></li>
-                                <li><a href="admission.html"><img src="images/t1.jpg" class="img-responsive" alt=""/></a></li>
-                            </ul>
-                          </div>
-
-                          
-                          <div class="tab-pane" id="women">
-                            <ul class="nav-list list-inline">
-                                <li><a href="admission.html"><img src="images/t1.jpg" class="img-responsive" alt=""/></a></li>
-                                <li><a href="admission.html"><img src="images/t2.jpg" class="img-responsive" alt=""/></a></li>
-                                <li><a href="admission.html"><img src="images/t3.jpg" class="img-responsive" alt=""/></a></li>
-                                <li><a href="admission.html"><img src="images/t4.jpg" class="img-responsive" alt=""/></a></li>
-                                <li><a href="admission.html"><img src="images/t5.jpg" class="img-responsive" alt=""/></a></li>
-                                <li><a href="admission.html"><img src="images/t6.jpg" class="img-responsive" alt=""/></a></li>
-                            </ul>
-                         </div>
-                       </div>
-                    </div>
-                    <!-- Nav tabs -->
-                    <ul class="nav nav-tabs" role="tablist">
-                       <li class="active"><a href="#men" role="tab" data-toggle="tab">School</a></li>
-                       <li><a href="#women" role="tab" data-toggle="tab">College</a></li>
-                   </ul>                    
-        </div>        
-      </li>
+            </li>
+           -->
+       <li class="dropdown">
+              <a href="events.php">Events</span></a>
+              
+            </li>
        <li class="dropdown">
               <a href="gallery.php">Gallery</span></a>
               
