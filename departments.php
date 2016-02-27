@@ -29,7 +29,7 @@
 			    	    <div class="container">
 			    	<div class="event_right">
 			    		 <div class="right_inner_content">            
-                <div class="title"><h1>Department Of Electronics Communication Engineering</h1></div>
+              <h1>Department Of Electronics Communication Engineering</h1>
                
  <p>The Electronics Engineers are entrusted with the responsibility of ensuring high speed processing of data and transmission in the most efficient means possible. The future lies in not shrinking our world further but also the universe around us.</p>
               <h2>Staff List</h2>

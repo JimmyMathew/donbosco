@@ -306,7 +306,7 @@ $(document).ready(function(){
       <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Academic<span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
-                <li><a href="http://www.tndte.com/syllabus.html">Syllabus</a></li>
+                <li><a href="http://www.tndte.com/syllabus.html" target="_blank">Syllabus</a></li>
                 <li><a href="examination.php">Examination</a></li>
                 <li><a href="committees.php">Committees</a></li>
                  
@@ -362,8 +362,8 @@ $(document).ready(function(){
       <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Download Links<span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
-                <li><a href="terms.html">Syllabus</a></li>
-                <li><a href="shortcodes.html">Prospectus</a></li>
+               <li><a href="http://www.tndte.com/syllabus.html" target="_blank">Syllabus</a></li>
+                <li><a href="#">Prospectus</a></li>
                 <li><a href="applicationform.php">Application Form</a></li>
               </ul>
             </li>
