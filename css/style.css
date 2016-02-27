@@ -209,6 +209,7 @@ ul.nav_1 li.last{
 	background:url(../images/2.jpg) no-repeat center top;
 }
 .banner-bg, .banner-img, .banner-img2{
+	
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -1107,6 +1108,12 @@ p.description{
     min-height:250px;
     text-align: center;
     padding: 3em 0 0 0;
+}
+.logo_index {
+    width: 186px;
+    height: 67px;
+    background: url(images/donbosco_logo_index.png) no-repeat;
+    background-size: 100%;
 }
 .rac{
 	background: url(../images/rac.jpg)no-repeat center top;
