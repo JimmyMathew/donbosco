@@ -246,14 +246,7 @@ $(document).ready(function(){
             </li>
              
             
-            <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-calendar"></i><span>Events</span></a>
-                 <ul class="dropdown-menu">
-                  <li><a href="events.html">Event1</a></li>
-                  <li><a href="events.html">Event2</a></li>
-                  <li><a href="events.html">Event3</a></li>
-                 </ul>
-            </li>
+         
              <li class="dropdown">
                 <a href="maps.php"><i class="fa fa-globe"></i><span>Maps & Directions</span></a>
             </li>
@@ -320,10 +313,10 @@ $(document).ready(function(){
                         <div class="tab-content">
                           <div class="tab-pane active" id="men">
                             <ul class="nav-list list-inline">
-                                <li><a href="prayer.php"><img src="images/one.jpg" class="img-responsive" alt=""/>Prayer Club</a></li>
-                                <li><a href="green.php"><img src="images/two.jpg" class="img-responsive" alt=""/>Green House Club</a></li>
-                                <li><a href="arts.php"><img src="images/three.jpg" class="img-responsive" alt=""/>Fine Arts Council</a></li>
-                                <li><a href="sports.php"><img src="images/four.jpg" class="img-responsive" alt=""/></a>Sports Club</li>
+                                <li><a href="prayer.php"><img src="images/one.jpg" style="width:100px;height:100px;"alt=""/>Prayer Club</a></li>
+                                <li><a href="green.php"><img src="images/two.jpg" style="width:100px;height:100px;" alt=""/>Green House Club</a></li>
+                                <li><a href="arts.php"><img src="images/three.jpg" style="width:100px;height:100px;" alt=""/>Fine Arts Council</a></li>
+                                <li><a href="sports.php"><img src="images/four.jpg" style="width:100px;height:100px;" alt=""/></a>Sports Club</li>
                             </ul>
                           </div>
                          
